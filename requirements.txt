@@ -1,0 +1,30 @@
+# Core
+numpy
+pandas
+scikit-learn
+# Hugging Face
+transformers
+datasets
+tokenizers
+# OpenAI
+openai
+# Google Gemini
+google-generativeai
+# Computer Vision
+opencv-python
+Pillow # PIL fork
+yolov5 # Or other YOLO variants, often installed differently
+# Time Series
+prophet
+statsmodels
+# Deep Learning (User chooses one or both)
+tensorflow
+torch
+torchaision
+# API Framework
+Flask
+# For TinyML (example)
+tensorflow-lite
+# Utilities
+python-dotenv # For managing environment variables for API keys
+requests
